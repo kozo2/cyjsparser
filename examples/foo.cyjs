@@ -1,0 +1,4922 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.2.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "TableS2",
+    "name" : "TableS2",
+    "SUID" : 62,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "173",
+        "shared_name" : "C00006094",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Puerarin",
+        "Molecular_formula" : "C21H20O9",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "",
+        "name" : "C00006094",
+        "KEGG" : "C10524",
+        "SUID" : 173,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -492.9932861328125,
+        "y" : 456.33233422955914
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "shared_name" : "ATMI0008",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "8C-Glucosyl-2,7,4'-trihydroxyisoflavanone",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "ATMI0008",
+        "KEGG" : "",
+        "SUID" : 172,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -494.59613037109375,
+        "y" : 372.03228540143414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "shared_name" : "C00006224",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Saponarin",
+        "Molecular_formula" : "C27H30O15",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "CPD-10347",
+        "name" : "C00006224",
+        "KEGG" : "C08064",
+        "SUID" : 171,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 820.931396484375,
+        "y" : 197.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "shared_name" : "ATMC0003",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "epicatechin heptamer",
+        "Molecular_formula" : "",
+        "CPD_source" : "PPB",
+        "PlantCyc_ID" : "",
+        "name" : "ATMC0003",
+        "KEGG" : "",
+        "SUID" : 170,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -904.4686889648438,
+        "y" : 1014.7541707431208
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "shared_name" : "C00001059",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isovitexin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00001059",
+        "KEGG" : "",
+        "SUID" : 169,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 628.8873901367188,
+        "y" : 197.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "shared_name" : "ATMI0007",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "6C-Glucosyl-2-hydroxynaringenin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "ATMI0007",
+        "KEGG" : "",
+        "SUID" : 168,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 420.4110412597656,
+        "y" : 197.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "shared_name" : "ATMI0006",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "2-Hydroxynaringenin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "ATMI0006",
+        "KEGG" : "",
+        "SUID" : 167,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 209.474853515625,
+        "y" : 102.03236932477398
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "shared_name" : "C00002918",
+        "PPB72_21" : "p6",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "epicatechin hexamer",
+        "Molecular_formula" : "C90H74O36",
+        "CPD_source" : "PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00002918",
+        "KEGG" : "C10222",
+        "SUID" : 166,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -904.4686889648438,
+        "y" : 937.577962247027
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "shared_name" : "C00009109",
+        "PPB72_21" : "p5",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "epicatechin pentamer",
+        "Molecular_formula" : "C75H62O30",
+        "CPD_source" : "PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00009109",
+        "KEGG" : "C17626",
+        "SUID" : 165,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -904.4686889648438,
+        "y" : 858.5755818759333
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "shared_name" : "C00009107",
+        "PPB72_21" : "p4",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "epicatechin tetramer",
+        "Molecular_formula" : "C60H50O24",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00009107",
+        "KEGG" : "C17625",
+        "SUID" : 164,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -904.4686889648438,
+        "y" : 783.3203328524958
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "shared_name" : "C00009098",
+        "PPB72_21" : "p3",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "epicatechin trimer",
+        "Molecular_formula" : "C45H38O18",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00009098",
+        "KEGG" : "C17624",
+        "SUID" : 163,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -904.4686889648438,
+        "y" : 696.2094930087458
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "shared_name" : "C00009077",
+        "PPB72_21" : "p2",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Procyanidin B2",
+        "Molecular_formula" : "C30H26O12",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00009077",
+        "KEGG" : "C17639",
+        "SUID" : 162,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -904.4686889648438,
+        "y" : 619.0334676181208
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "shared_name" : "C00002564",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Prunetin",
+        "Molecular_formula" : "C16H12O5",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "",
+        "name" : "C00002564",
+        "KEGG" : "C10521",
+        "SUID" : 161,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -379.9468078613281,
+        "y" : 455.9655739756529
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "shared_name" : "C00002526",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-3141",
+        "CPD2_name" : "Genistein",
+        "Molecular_formula" : "C15H10O5",
+        "CPD_source" : "KN",
+        "PlantCyc_ID" : "CPD-3141",
+        "name" : "C00002526",
+        "KEGG" : "C06563",
+        "SUID" : 160,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -258.33905029296875,
+        "y" : 456.33233422955914
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "shared_name" : "C00034377",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "2',4',5,7- Tetrahydroxyisoflavanone",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00034377",
+        "KEGG" : "",
+        "SUID" : 159,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -207.04232788085938,
+        "y" : 377.03228540143414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "shared_name" : "C00009380",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "DAIDZEIN",
+        "CPD2_name" : "Daidzein",
+        "Molecular_formula" : "C15H10O4",
+        "CPD_source" : "PM,KN",
+        "PlantCyc_ID" : "DAIDZEIN",
+        "name" : "C00009380",
+        "KEGG" : "C10208",
+        "SUID" : 158,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -332.3843994140625,
+        "y" : 372.03228540143414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "shared_name" : "ATMI0003",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "2,7,4'-Trihydroxyisoflavanone",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "ATMI0003",
+        "KEGG" : "",
+        "SUID" : 157,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -240.36367797851562,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "shared_name" : "C00007570",
+        "PPB72_21" : "A11",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(2-(2-sinapoyl)xylosyl)(6-(p-glucosyl)coumaroyl)glucoside- 5-(6-malonylglucoside) (A11)",
+        "Molecular_formula" : "C61H67O34",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00007570",
+        "KEGG" : "",
+        "SUID" : 156,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -328.59352349448284,
+        "y" : 1265.536036507128
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "shared_name" : "C00006838",
+        "PPB72_21" : "A9",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6''-p-coumaryl-2'''-sinapylsambubioside)- 5-(6-malonylglucoside) (A9)",
+        "Molecular_formula" : "C55H57O29",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00006838",
+        "KEGG" : "",
+        "SUID" : 155,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -332.03265380859375,
+        "y" : 1161.7311882894048
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "shared_name" : "C00007659",
+        "PPB72_21" : "A8",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(2-xylosyl)-(6-(p-glucosyl)coumaroyl)glucoside)- 5-(6-malonylglucoside) (A8)",
+        "Molecular_formula" : "C50H57O30",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00007659",
+        "KEGG" : "",
+        "SUID" : 154,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3.044891357421875,
+        "y" : 1205.586301630362
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "shared_name" : "C00007661",
+        "PPB72_21" : "A10",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(2-(2-sinapoyl)xylosyl)(6-(p-glucosyl)coumaroyl)glucoside- 5-glucoside (A10)",
+        "Molecular_formula" : "C58H65O31",
+        "CPD_source" : "KN,PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00007661",
+        "KEGG" : "",
+        "SUID" : 153,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -668.4996432943376,
+        "y" : 1083.518111181741
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "shared_name" : "C00007660",
+        "PPB72_21" : "A7",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(2-(2-sinapoyl)xylosyl)(6-p-coumaroyl)glucoside- 5-O-glucoside (A7)",
+        "Molecular_formula" : "C52H55O26",
+        "CPD_source" : "KN,PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00007660",
+        "KEGG" : "",
+        "SUID" : 152,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -633.833788387061,
+        "y" : 972.7624159016593
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "shared_name" : "C00007658",
+        "PPB72_21" : "A6",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6-(p-glucosylcoumaroyl)sambubioside)- 5-glucoside (A6)",
+        "Molecular_formula" : "C47H55O27",
+        "CPD_source" : "KN,PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00007658",
+        "KEGG" : "",
+        "SUID" : 151,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -659.0752339599107,
+        "y" : 1171.7264275472173
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "shared_name" : "C00007657",
+        "PPB72_21" : "A5",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6-p-coumaroylsambubioside)- 5-(6-malonylglucoside) (A5)",
+        "Molecular_formula" : "C44H47O25",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00007657",
+        "KEGG" : "",
+        "SUID" : 150,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1.729644775390625,
+        "y" : 1117.426877802237
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "shared_name" : "C00006824",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6-p-coumaroylglucoside)- 5-(6-malonylglucoside)",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00006824",
+        "KEGG" : "",
+        "SUID" : 149,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3.631866455078125,
+        "y" : 1014.1878030952057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "shared_name" : "C00006836",
+        "PPB72_21" : "A3",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6-p-coumaroylsambubioside)- 5-glucoside (A3)",
+        "Molecular_formula" : "C41H45O22",
+        "CPD_source" : "PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00006836",
+        "KEGG" : "",
+        "SUID" : 148,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -165.80242457724307,
+        "y" : 915.5338417979185
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "shared_name" : "C00006819",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6-p-coumaroylglucoside)- 5-glucoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00006819",
+        "KEGG" : "",
+        "SUID" : 147,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -12.406059265136719,
+        "y" : 836.502197265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "shared_name" : "C00033741",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6-p-coumaroylsambubioside)",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00033741",
+        "KEGG" : "",
+        "SUID" : 146,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -226.26488795614932,
+        "y" : 833.5631386729185
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "shared_name" : "C00006800",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(6-p-coumaroylglucoside)",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00006800",
+        "KEGG" : "",
+        "SUID" : 145,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -230.53016200400089,
+        "y" : 736.8536049815123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "shared_name" : "C00007656",
+        "PPB72_21" : "A4",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-(2-(2-sinapoylxylosyl) glucoside)-5-glucoside (A4)",
+        "Molecular_formula" : "C43H49O24",
+        "CPD_source" : "KN,PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00007656",
+        "KEGG" : "",
+        "SUID" : 144,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -687.6084852375968,
+        "y" : 870.1767225422843
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "shared_name" : "C00007655",
+        "PPB72_21" : "A2",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-sambubioside-5-(6-malonylglucoside) (A2)",
+        "Molecular_formula" : "C35H41O23",
+        "CPD_source" : "KN,PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00007655",
+        "KEGG" : "",
+        "SUID" : 143,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -480.76771783042034,
+        "y" : 893.4151868977531
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "shared_name" : "C00006673",
+        "PPB72_21" : "A1",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-sambubioside-5-glucoside (A1)",
+        "Molecular_formula" : "C32H39O20",
+        "CPD_source" : "KN,PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00006673",
+        "KEGG" : "C20493",
+        "SUID" : 142,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -636.317430965186,
+        "y" : 796.335156925439
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "shared_name" : "C00038883",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3,5-di-O-glucoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00038883",
+        "KEGG" : "",
+        "SUID" : 141,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -362.5082961592743,
+        "y" : 736.8536049815123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "shared_name" : "C00006658",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-sophoroside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00006658",
+        "KEGG" : "",
+        "SUID" : 140,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -468.1663466963837,
+        "y" : 736.8536049815123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "shared_name" : "C00006657",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-sambubioside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00006657",
+        "KEGG" : "",
+        "SUID" : 139,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -626.5799209151337,
+        "y" : 736.8536049815123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "shared_name" : "C00002374",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Cyanidin 3-glucoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00002374",
+        "KEGG" : "",
+        "SUID" : 138,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -412.51858058310245,
+        "y" : 616.7068764658873
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "shared_name" : "C00005559",
+        "PPB72_21" : "f30",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3,7-dirhamnoside",
+        "Molecular_formula" : "C28H32O15",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005559",
+        "KEGG" : "",
+        "SUID" : 137,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 343.7454979996407,
+        "y" : 670.975081739875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "shared_name" : "C00005558",
+        "PPB72_21" : "f15",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-rhamnoside- 7-glucoside",
+        "Molecular_formula" : "C28H32O16",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005558",
+        "KEGG" : "",
+        "SUID" : 136,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 442.0899193863595,
+        "y" : 750.19921875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "shared_name" : "C00005526",
+        "PPB72_21" : "f27",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-rhamnoside",
+        "Molecular_formula" : "C22H22O11",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005526",
+        "KEGG" : "",
+        "SUID" : 135,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 388.8488464355469,
+        "y" : 613.0049305616247
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "shared_name" : "C00005547",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-neohesperidoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005547",
+        "KEGG" : "",
+        "SUID" : 134,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 282.5993493180001,
+        "y" : 745.1991577148438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "shared_name" : "ATMC0002",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-neohesperidoside- 7-rhamnoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "ATMC0002",
+        "KEGG" : "",
+        "SUID" : 133,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 234.95947265625,
+        "y" : 811.71435546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "shared_name" : "C00005557",
+        "PPB72_21" : "f14",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-glucoside- 7-rhamnoside",
+        "Molecular_formula" : "C28H32O16",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005557",
+        "KEGG" : "",
+        "SUID" : 132,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 166.01377868652344,
+        "y" : 744.7042077164376
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "shared_name" : "C00005525",
+        "PPB72_21" : "f28",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-glucoside",
+        "Molecular_formula" : "C22H22O12",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-14969",
+        "name" : "C00005525",
+        "KEGG" : "",
+        "SUID" : 131,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 275.82568490892174,
+        "y" : 611.5899074154996
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "shared_name" : "C00005551",
+        "PPB72_21" : "f29",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-arabinoside- 7-rhamnoside",
+        "Molecular_formula" : "C27H30O15",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005551",
+        "KEGG" : "",
+        "SUID" : 130,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 155.94235492526533,
+        "y" : 667.1146240234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "shared_name" : "ATMI0002",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin 3-arabinoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "ATMI0002",
+        "KEGG" : "",
+        "SUID" : 129,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 156.23051584153893,
+        "y" : 607.5924072265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "shared_name" : "C00004635",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Isorhamnetin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00004635",
+        "KEGG" : "",
+        "SUID" : 128,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 266.7764892578125,
+        "y" : 540.56396484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "shared_name" : "C00004632",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "3-O-Methylquercetin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00004632",
+        "KEGG" : "",
+        "SUID" : 127,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 671.6727578135435,
+        "y" : 456.33233642578125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "shared_name" : "C00005382",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Quercetin 7-glucoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005382",
+        "KEGG" : "",
+        "SUID" : 126,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 798.2137451171875,
+        "y" : 599.5936279296875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "shared_name" : "C00005432",
+        "PPB72_21" : "f5",
+        "AraCyc_ID" : "CPDQT-26",
+        "CPD2_name" : "Quercetin 3,7-di-rhamnoside",
+        "Molecular_formula" : "C27H30O15",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPDQT-26",
+        "name" : "C00005432",
+        "KEGG" : "",
+        "SUID" : 125,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 926.4326782226562,
+        "y" : 674.500732421875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "shared_name" : "C00005431",
+        "PPB72_21" : "f7",
+        "AraCyc_ID" : "CPD-8011",
+        "CPD2_name" : "Quercetin 3-rhamnoside- 7-glucoside",
+        "Molecular_formula" : "C27H30O16",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-8011",
+        "name" : "C00005431",
+        "KEGG" : "C19796",
+        "SUID" : 124,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 937.2112426757812,
+        "y" : 759.7401123046875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "shared_name" : "C00005374",
+        "PPB72_21" : "f24",
+        "AraCyc_ID" : "CPD-8013",
+        "CPD2_name" : "Quercetin 3-rhamnoside",
+        "Molecular_formula" : "C21H20O11",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-8013",
+        "name" : "C00005374",
+        "KEGG" : "C01750",
+        "SUID" : 123,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 800.5692138671875,
+        "y" : 671.2156372070312
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "shared_name" : "C00005413",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "RUTIN",
+        "CPD2_name" : "Quercetin 3-rutinoside (Rutin)",
+        "Molecular_formula" : "C27H30O16",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "RUTIN",
+        "name" : "C00005413",
+        "KEGG" : "C05625",
+        "SUID" : 122,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 835.4299926757812,
+        "y" : 757.8381958007812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "shared_name" : "C00005412",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Quercetin 3-neohesperidoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005412",
+        "KEGG" : "",
+        "SUID" : 121,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 945.9971313476562,
+        "y" : 921.472900390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "shared_name" : "C00005470",
+        "PPB72_21" : "f8",
+        "AraCyc_ID" : "CPD-15021",
+        "CPD2_name" : "Quercetin 3-neohesperidoside- 7-rhamnoside",
+        "Molecular_formula" : "C33H40O20",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-15021",
+        "name" : "C00005470",
+        "KEGG" : "",
+        "SUID" : 120,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 789.1694946289062,
+        "y" : 1040.1795654296875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "shared_name" : "C00005428",
+        "PPB72_21" : "f6",
+        "AraCyc_ID" : "CPD-5521",
+        "CPD2_name" : "Quercetin 3-glucosyl- 7-rhamnoside",
+        "Molecular_formula" : "C27H30O16",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-5521",
+        "name" : "C00005428",
+        "KEGG" : "",
+        "SUID" : 119,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 709.6355590820312,
+        "y" : 930.8653564453125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "shared_name" : "C00005427",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Quercetin 3,7-diglucoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005427",
+        "KEGG" : "",
+        "SUID" : 118,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 815.9924926757812,
+        "y" : 921.472900390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "shared_name" : "C00005373",
+        "PPB72_21" : "f16",
+        "AraCyc_ID" : "CPD1F-437",
+        "CPD2_name" : "Quercetin 3-glucoside",
+        "Molecular_formula" : "C21H20O12",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD1F-437",
+        "name" : "C00005373",
+        "KEGG" : "C05623",
+        "SUID" : 117,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 749.992919921875,
+        "y" : 754.4600219726562
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "shared_name" : "ATMC0001",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Quercetin 3-arabinoside- 7-rhamnoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "ATMC0001",
+        "KEGG" : "",
+        "SUID" : 116,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 598.5845947265625,
+        "y" : 930.8653564453125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "C00005368",
+        "PPB72_21" : "f23",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Quercetin 3-arabinoside",
+        "Molecular_formula" : "C20H18O11",
+        "CPD_source" : "PPB",
+        "PlantCyc_ID" : "",
+        "name" : "C00005368",
+        "KEGG" : "",
+        "SUID" : 115,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 641.0505981445312,
+        "y" : 752.3991088867188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "shared_name" : "C00005197",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 7-neohesperidoside",
+        "Molecular_formula" : "C27H30O15",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "",
+        "name" : "C00005197",
+        "KEGG" : "",
+        "SUID" : 114,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1657.4293212890625,
+        "y" : 844.2549438476562
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "shared_name" : "C00005149",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-8007",
+        "CPD2_name" : "Kaempferol 7-glucoside",
+        "Molecular_formula" : "C21H20O11",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "CPD-8007",
+        "name" : "C00005149",
+        "KEGG" : "",
+        "SUID" : 113,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1470.751220703125,
+        "y" : 645.9865112304688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "shared_name" : "C00005189",
+        "PPB72_21" : "f1",
+        "AraCyc_ID" : "CPD1F-462",
+        "CPD2_name" : "Kaempferol 3,7-dirhamnoside",
+        "Molecular_formula" : "C27H30O14",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD1F-462",
+        "name" : "C00005189",
+        "KEGG" : "C16981",
+        "SUID" : 112,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1655.8865966796875,
+        "y" : 767.9586791992188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "shared_name" : "C00005188",
+        "PPB72_21" : "f20",
+        "AraCyc_ID" : "CPD-8012",
+        "CPD2_name" : "Kaempferol 3-rhamnoside- 7-glucoside",
+        "Molecular_formula" : "C27H30O15",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-8012",
+        "name" : "C00005188",
+        "KEGG" : "",
+        "SUID" : 111,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1532.6553955078125,
+        "y" : 816.43310546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "shared_name" : "C00005140",
+        "PPB72_21" : "f17",
+        "AraCyc_ID" : "CPD1F-461",
+        "CPD2_name" : "Kaempferol 3-rhamnoside",
+        "Molecular_formula" : "C21H20O10",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD1F-461",
+        "name" : "C00005140",
+        "KEGG" : "C16911",
+        "SUID" : 110,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1569.1241455078125,
+        "y" : 645.9865112304688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "shared_name" : "C00005166",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-gentiobioside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005166",
+        "KEGG" : "",
+        "SUID" : 109,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1540.556396484375,
+        "y" : 911.7980346679688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "shared_name" : "C00005234",
+        "PPB72_21" : "f4",
+        "AraCyc_ID" : "CPD1F-431",
+        "CPD2_name" : "Kaempferol 3-gentiobioside- 7-rhamnoside",
+        "Molecular_formula" : "C33H40O20",
+        "CPD_source" : "KN,PPB",
+        "PlantCyc_ID" : "CPD1F-431",
+        "name" : "C00005234",
+        "KEGG" : "",
+        "SUID" : 108,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1498.899169921875,
+        "y" : 1033.029052734375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "shared_name" : "C00005167",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-neohesperidoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005167",
+        "KEGG" : "",
+        "SUID" : 107,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1209.4251708984375,
+        "y" : 909.9055786132812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "C00005237",
+        "PPB72_21" : "f3",
+        "AraCyc_ID" : "CPD-15023",
+        "CPD2_name" : "Kaempferol 3-neohesperidoside- 7-rhamnoside",
+        "Molecular_formula" : "C33H40O19",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005237",
+        "KEGG" : "",
+        "SUID" : 106,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1304.0211181640625,
+        "y" : 1028.8197021484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "shared_name" : "C00005184",
+        "PPB72_21" : "f2",
+        "AraCyc_ID" : "CPD1F-420",
+        "CPD2_name" : "Kaempferol 3-glucosyl- 7-rhamnoside",
+        "Molecular_formula" : "C27H30O15",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD1F-420",
+        "name" : "C00005184",
+        "KEGG" : "",
+        "SUID" : 105,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1328.209228515625,
+        "y" : 917.4056396484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "C00005182",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3,7-diglucoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005182",
+        "KEGG" : "",
+        "SUID" : 104,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1429.5084228515625,
+        "y" : 909.9055786132812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "shared_name" : "C00005138",
+        "PPB72_21" : "f18",
+        "AraCyc_ID" : "CPD1F-453",
+        "CPD2_name" : "Kaempferol 3-glucoside",
+        "Molecular_formula" : "C21H20O11",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD1F-453",
+        "name" : "C00005138",
+        "KEGG" : "C12249",
+        "SUID" : 103,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1371.994140625,
+        "y" : 645.9865112304688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "shared_name" : "C00005202",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-rhamninoside",
+        "Molecular_formula" : "C33H40O19",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005202",
+        "KEGG" : "",
+        "SUID" : 102,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1160.711669921875,
+        "y" : 808.6376342773438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "shared_name" : "ATMI0001",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-robinoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "ATMI0001",
+        "KEGG" : "",
+        "SUID" : 101,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1158.055908203125,
+        "y" : 722.8978271484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "C00005178",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-galactoside- 7-rhamnoside",
+        "Molecular_formula" : "C27H30O15",
+        "CPD_source" : "KN",
+        "PlantCyc_ID" : "",
+        "name" : "C00005178",
+        "KEGG" : "",
+        "SUID" : 100,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1259.1180419921875,
+        "y" : 718.8749389648438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "shared_name" : "C00005174",
+        "PPB72_21" : "f19",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-arabinoside- 7-rhamnoside",
+        "Molecular_formula" : "C26H28O14",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00005174",
+        "KEGG" : "",
+        "SUID" : 99,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1052.58447265625,
+        "y" : 723.0455932617188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "C00005133",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-arabinoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005133",
+        "KEGG" : "",
+        "SUID" : 98,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1117.0540771484375,
+        "y" : 646.3234252929688
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "shared_name" : "C00005137",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Kaempferol 3-galactoside",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00005137",
+        "KEGG" : "",
+        "SUID" : 97,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1260.28173828125,
+        "y" : 644.093994140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "C00003834",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Scutellarein",
+        "Molecular_formula" : "C15H10O6",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "CPD-12726",
+        "name" : "C00003834",
+        "KEGG" : "C10184",
+        "SUID" : 96,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -73.6850357055664,
+        "y" : 372.03228540143414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "C00001017",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Vitaxin",
+        "Molecular_formula" : "C21H20O10",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "VITEXIN",
+        "name" : "C00001017",
+        "KEGG" : "C04608",
+        "SUID" : 95,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 8.375441551208496,
+        "y" : 372.03228540143414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "C00003820",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Acacetin",
+        "Molecular_formula" : "C16H12O5",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "CPD-1095",
+        "name" : "C00003820",
+        "KEGG" : "C01470",
+        "SUID" : 94,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 95.24497985839844,
+        "y" : 372.03228540143414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "shared_name" : "C00008208",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Naringenin 4'-O-glucoside",
+        "Molecular_formula" : "C21H22O10",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "",
+        "name" : "C00008208",
+        "KEGG" : "",
+        "SUID" : 93,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 292.2069396972656,
+        "y" : 287.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "C00000674",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Luteolin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00000674",
+        "KEGG" : "",
+        "SUID" : 92,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 209.365966796875,
+        "y" : 372.03228540143414
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "shared_name" : "C00003817",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Apigenin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00003817",
+        "KEGG" : "",
+        "SUID" : 91,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -22.08216094970703,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "C00000960",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Eriodictyol",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00000960",
+        "KEGG" : "",
+        "SUID" : 90,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 104.33006286621094,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "shared_name" : "C00003800",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "7,4'-Dihydroxyflavone",
+        "Molecular_formula" : "C15H10O4",
+        "CPD_source" : "PM",
+        "PlantCyc_ID" : "",
+        "name" : "C00003800",
+        "KEGG" : "C12123",
+        "SUID" : 89,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -426.6206359863281,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "C00000977",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-3061",
+        "CPD2_name" : "Liquilitigenin",
+        "Molecular_formula" : "C15H12O4",
+        "CPD_source" : "PM,KN",
+        "PlantCyc_ID" : "CPD-3061",
+        "name" : "C00000977",
+        "KEGG" : "C09762",
+        "SUID" : 88,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -262.1576232910156,
+        "y" : 197.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "C00006925",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-3041",
+        "CPD2_name" : "Isoliquilitigenin",
+        "Molecular_formula" : "C15H12O4",
+        "CPD_source" : "PM,KN",
+        "PlantCyc_ID" : "CPD-3041",
+        "name" : "C00006925",
+        "KEGG" : "C08650",
+        "SUID" : 87,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -262.1576232910156,
+        "y" : 102.03236932477398
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "C00000947",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-1961",
+        "CPD2_name" : "(+)-Catechin",
+        "Molecular_formula" : "C15H14O6",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-1961",
+        "name" : "C00000947",
+        "KEGG" : "C06562",
+        "SUID" : 86,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -24.290993777104163,
+        "y" : 434.49413542356126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "C00000956",
+        "PPB72_21" : "p1",
+        "AraCyc_ID" : "CPD-7630",
+        "CPD2_name" : "(-)-Epicatechin",
+        "Molecular_formula" : "C15H14O6",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "CPD-7630",
+        "name" : "C00000956",
+        "KEGG" : "C09727",
+        "SUID" : 85,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -902.5761108398438,
+        "y" : 535.8435262118708
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "C00006614",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-591",
+        "CPD2_name" : "Cyanidin",
+        "Molecular_formula" : "C15H11O6",
+        "CPD_source" : "KN",
+        "PlantCyc_ID" : "CPD-591",
+        "name" : "C00006614",
+        "KEGG" : "C05905",
+        "SUID" : 84,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -413.4208169989777,
+        "y" : 538.7995200900266
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "C00007235",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-590",
+        "CPD2_name" : "Leucocyanidin",
+        "Molecular_formula" : "C15H14O7",
+        "CPD_source" : "KN",
+        "PlantCyc_ID" : "CPD-590",
+        "name" : "C00007235",
+        "KEGG" : "C05906",
+        "SUID" : 83,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -23.044971466064453,
+        "y" : 478.94262591283723
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "C00004631",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-520",
+        "CPD2_name" : "Quercetin",
+        "Molecular_formula" : "C21H20O11",
+        "CPD_source" : "PM,KN",
+        "PlantCyc_ID" : "CPD-520",
+        "name" : "C00004631",
+        "KEGG" : "C00389",
+        "SUID" : 82,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 635.2693481445312,
+        "y" : 541.9788818359375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "C00000677",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD-474",
+        "CPD2_name" : "dihydroquercetin, Taxifolin",
+        "Molecular_formula" : "C15H12O7",
+        "CPD_source" : "PM,KN",
+        "PlantCyc_ID" : "CPD-474",
+        "name" : "C00000677",
+        "KEGG" : "C01617",
+        "SUID" : 81,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 381.8317565917969,
+        "y" : 374.97137231549664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "C00000937",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Afzelechin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00000937",
+        "KEGG" : "",
+        "SUID" : 80,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 787.4737548828125,
+        "y" : 235.57200402936382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "C00008805",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Epiafzelechin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00008805",
+        "KEGG" : "",
+        "SUID" : 79,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1044.0029296875,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "C00007232",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "PELARGONIDIN-CMPD",
+        "CPD2_name" : "Pelargonidin",
+        "Molecular_formula" : "C15H11O5",
+        "CPD_source" : "KN",
+        "PlantCyc_ID" : "PELARGONIDIN-CMPD",
+        "name" : "C00007232",
+        "KEGG" : "C05904",
+        "SUID" : 78,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 923.037353515625,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "C00020638",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "Leucopelargonidin",
+        "Molecular_formula" : "",
+        "CPD_source" : "NE",
+        "PlantCyc_ID" : "",
+        "name" : "C00020638",
+        "KEGG" : "",
+        "SUID" : 77,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 788.6988525390625,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "C00004565",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "CPD1F-90",
+        "CPD2_name" : "Kaempferol",
+        "Molecular_formula" : "C15H10O6",
+        "CPD_source" : "PM,KN",
+        "PlantCyc_ID" : "CPD1F-90",
+        "name" : "C00004565",
+        "KEGG" : "C05903",
+        "SUID" : 76,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1366.9798583984375,
+        "y" : 545.3853759765625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "C00007234",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "DIHYDROKAEMPFEROL-CMPD",
+        "CPD2_name" : "Dihydrokaempferol",
+        "Molecular_formula" : "C15H12O6",
+        "CPD_source" : "KN",
+        "PlantCyc_ID" : "DIHYDROKAEMPFEROL-CMPD",
+        "name" : "C00007234",
+        "KEGG" : "C00974",
+        "SUID" : 75,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 583.8479614257812,
+        "y" : 282.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "C00000982",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "NARINGENIN-CMPD",
+        "CPD2_name" : "Naringenin",
+        "Molecular_formula" : "C15H12O5",
+        "CPD_source" : "PM,KN",
+        "PlantCyc_ID" : "NARINGENIN-CMPD",
+        "name" : "C00000982",
+        "KEGG" : "C00509",
+        "SUID" : 74,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 47.84234619140625,
+        "y" : 197.0323464365904
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "C00007233",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "APIGENIN",
+        "CPD2_name" : "Naringenin Chalcone",
+        "Molecular_formula" : "C15H12O5",
+        "CPD_source" : "KN",
+        "PlantCyc_ID" : "APIGENIN",
+        "name" : "C00007233",
+        "KEGG" : "C06561",
+        "SUID" : 73,
+        "KNA_SA_K_Organism" : "Arabidopsis thaliana",
+        "selected" : false
+      },
+      "position" : {
+        "x" : 47.84231948852539,
+        "y" : 107.03236932477398
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "C00007280",
+        "PPB72_21" : "",
+        "AraCyc_ID" : "",
+        "CPD2_name" : "6C-Glucosyl-2-hydroxynaringenin",
+        "Molecular_formula" : "",
+        "CPD_source" : "",
+        "PlantCyc_ID" : "",
+        "name" : "C00007280",
+        "KEGG" : "",
+        "SUID" : 72,
+        "KNA_SA_K_Organism" : "",
+        "selected" : false
+      },
+      "position" : {
+        "x" : -124.65760803222656,
+        "y" : 17.03236169537945
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "293",
+        "source" : "172",
+        "target" : "173",
+        "PPB" : "Unclear",
+        "shared_interaction" : "edge120",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "ATMI0008 (edge120) C00006094",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "ATMI0008 (edge120) C00006094",
+        "interaction" : "edge120",
+        "SUID" : 293,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "292",
+        "source" : "169",
+        "target" : "171",
+        "PPB" : "",
+        "shared_interaction" : "edge118",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00001059 (edge118) C00006224",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00001059 (edge118) C00006224",
+        "interaction" : "edge118",
+        "SUID" : 292,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "291",
+        "source" : "168",
+        "target" : "169",
+        "PPB" : "",
+        "shared_interaction" : "edge116",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "ATMI0007 (edge116) C00001059",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-14076",
+        "name" : "ATMI0007 (edge116) C00001059",
+        "interaction" : "edge116",
+        "SUID" : 291,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "290",
+        "source" : "167",
+        "target" : "168",
+        "PPB" : "",
+        "shared_interaction" : "edge115",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "ATMI0006 (edge115) ATMI0007",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-14075",
+        "name" : "ATMI0006 (edge115) ATMI0007",
+        "interaction" : "edge115",
+        "SUID" : 290,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "289",
+        "source" : "166",
+        "target" : "170",
+        "PPB" : "",
+        "shared_interaction" : "edge117",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00002918 (edge117) ATMC0003",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00002918 (edge117) ATMC0003",
+        "interaction" : "edge117",
+        "SUID" : 289,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "288",
+        "source" : "165",
+        "target" : "166",
+        "PPB" : "Unclear",
+        "shared_interaction" : "edge113",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00009109 (edge113) C00002918",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00009109 (edge113) C00002918",
+        "interaction" : "edge113",
+        "SUID" : 288,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "287",
+        "source" : "164",
+        "target" : "165",
+        "PPB" : "Unclear",
+        "shared_interaction" : "edge112",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00009107 (edge112) C00009109",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00009107 (edge112) C00009109",
+        "interaction" : "edge112",
+        "SUID" : 287,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "286",
+        "source" : "163",
+        "target" : "164",
+        "PPB" : "Unclear",
+        "shared_interaction" : "edge111",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00009098 (edge111) C00009107",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00009098 (edge111) C00009107",
+        "interaction" : "edge111",
+        "SUID" : 286,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "285",
+        "source" : "162",
+        "target" : "163",
+        "PPB" : "Unclear",
+        "shared_interaction" : "edge110",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00009077 (edge110) C00009098",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00009077 (edge110) C00009098",
+        "interaction" : "edge110",
+        "SUID" : 285,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "284",
+        "source" : "160",
+        "target" : "161",
+        "PPB" : "",
+        "shared_interaction" : "edge108",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R06974",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00002526 (edge108) C00002564",
+        "KEGG_KO" : "K13262",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-3642",
+        "name" : "C00002526 (edge108) C00002564",
+        "interaction" : "edge108",
+        "SUID" : 284,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "283",
+        "source" : "159",
+        "target" : "160",
+        "PPB" : "",
+        "shared_interaction" : "edge107",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06793",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00034377 (edge107) C00002526",
+        "KEGG_KO" : "K13258",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-3303",
+        "name" : "C00034377 (edge107) C00002526",
+        "interaction" : "edge107",
+        "SUID" : 283,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "282",
+        "source" : "157",
+        "target" : "172",
+        "PPB" : "Unclear",
+        "shared_interaction" : "edge119",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "ATMI0003 (edge119) ATMI0008",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "ATMI0003 (edge119) ATMI0008",
+        "interaction" : "edge119",
+        "SUID" : 282,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "281",
+        "source" : "157",
+        "target" : "158",
+        "PPB" : "",
+        "shared_interaction" : "edge104",
+        "mywidth" : "gene",
+        "KEGG_R" : "R07317",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "ATMI0003 (edge104) C00009380",
+        "KEGG_KO" : "K13258",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-3284",
+        "name" : "ATMI0003 (edge104) C00009380",
+        "interaction" : "edge104",
+        "SUID" : 281,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "280",
+        "source" : "155",
+        "target" : "156",
+        "PPB" : "ath",
+        "shared_interaction" : "edge99",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "BGLC10",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006838 (edge99) C00007570",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006838 (edge99) C00007570",
+        "interaction" : "edge99",
+        "SUID" : 280,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "279",
+        "source" : "154",
+        "target" : "156",
+        "PPB" : "ath",
+        "shared_interaction" : "edge98",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3Glc2''XylSinT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007659 (edge98) C00007570",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00007659 (edge98) C00007570",
+        "interaction" : "edge98",
+        "SUID" : 279,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "278",
+        "source" : "152",
+        "target" : "155",
+        "PPB" : "ath",
+        "shared_interaction" : "edge100",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A5GlcMalT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007660 (edge100) C00006838",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00007660 (edge100) C00006838",
+        "interaction" : "edge100",
+        "SUID" : 278,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "277",
+        "source" : "152",
+        "target" : "153",
+        "PPB" : "ath",
+        "shared_interaction" : "edge95",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "BGLC10",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007660 (edge95) C00007661",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00007660 (edge95) C00007661",
+        "interaction" : "edge95",
+        "SUID" : 277,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "276",
+        "source" : "151",
+        "target" : "153",
+        "PPB" : "ath",
+        "shared_interaction" : "edge94",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3Glc2''XylSinT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007658 (edge94) C00007661",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00007658 (edge94) C00007661",
+        "interaction" : "edge94",
+        "SUID" : 276,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "275",
+        "source" : "150",
+        "target" : "155",
+        "PPB" : "ath",
+        "shared_interaction" : "edge97",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3Glc2''XylSinT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007657 (edge97) C00006838",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00007657 (edge97) C00006838",
+        "interaction" : "edge97",
+        "SUID" : 275,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "274",
+        "source" : "150",
+        "target" : "154",
+        "PPB" : "ath",
+        "shared_interaction" : "edge96",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "BGLC10",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007657 (edge96) C00007659",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00007657 (edge96) C00007659",
+        "interaction" : "edge96",
+        "SUID" : 274,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "273",
+        "source" : "149",
+        "target" : "150",
+        "PPB" : "",
+        "shared_interaction" : "edge102",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006824 (edge102) C00007657",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006824 (edge102) C00007657",
+        "interaction" : "edge102",
+        "SUID" : 273,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "272",
+        "source" : "148",
+        "target" : "152",
+        "PPB" : "ath",
+        "shared_interaction" : "edge93",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3Glc2''XylSinT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006836 (edge93) C00007660",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006836 (edge93) C00007660",
+        "interaction" : "edge93",
+        "SUID" : 272,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "271",
+        "source" : "148",
+        "target" : "151",
+        "PPB" : "ath",
+        "shared_interaction" : "edge92",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "BGLC10",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006836 (edge92) C00007658",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006836 (edge92) C00007658",
+        "interaction" : "edge92",
+        "SUID" : 271,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "270",
+        "source" : "148",
+        "target" : "150",
+        "PPB" : "ath",
+        "shared_interaction" : "edge91",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A5GlcMalT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006836 (edge91) C00007657",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006836 (edge91) C00007657",
+        "interaction" : "edge91",
+        "SUID" : 270,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "269",
+        "source" : "147",
+        "target" : "149",
+        "PPB" : "",
+        "shared_interaction" : "edge90",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R07910",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006819 (edge90) C00006824",
+        "KEGG_KO" : "K12934",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-8171",
+        "name" : "C00006819 (edge90) C00006824",
+        "interaction" : "edge90",
+        "SUID" : 269,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "268",
+        "source" : "147",
+        "target" : "148",
+        "PPB" : "ath",
+        "shared_interaction" : "edge89",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3G2''XylT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006819 (edge89) C00006836",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006819 (edge89) C00006836",
+        "interaction" : "edge89",
+        "SUID" : 268,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "267",
+        "source" : "146",
+        "target" : "148",
+        "PPB" : "ath",
+        "shared_interaction" : "edge87",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A5GlcT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00033741 (edge87) C00006836",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00033741 (edge87) C00006836",
+        "interaction" : "edge87",
+        "SUID" : 267,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "266",
+        "source" : "145",
+        "target" : "147",
+        "PPB" : "",
+        "shared_interaction" : "edge86",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06547",
+        "PPBname" : "A5GlcT",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00006800 (edge86) C00006819",
+        "KEGG_KO" : "K12338",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-8205",
+        "name" : "C00006800 (edge86) C00006819",
+        "interaction" : "edge86",
+        "SUID" : 266,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "265",
+        "source" : "145",
+        "target" : "146",
+        "PPB" : "ath",
+        "shared_interaction" : "edge85",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3G2''XylT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006800 (edge85) C00033741",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006800 (edge85) C00033741",
+        "interaction" : "edge85",
+        "SUID" : 265,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "264",
+        "source" : "143",
+        "target" : "150",
+        "PPB" : "ath",
+        "shared_interaction" : "edge101",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3GlcCouT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007655 (edge101) C00007657",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00007655 (edge101) C00007657",
+        "interaction" : "edge101",
+        "SUID" : 264,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "263",
+        "source" : "142",
+        "target" : "148",
+        "PPB" : "ath",
+        "shared_interaction" : "edge88",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3GlcCouT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006673 (edge88) C00006836",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006673 (edge88) C00006836",
+        "interaction" : "edge88",
+        "SUID" : 263,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "262",
+        "source" : "142",
+        "target" : "144",
+        "PPB" : "ath",
+        "shared_interaction" : "edge82",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3Glc2''XylSinT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006673 (edge82) C00007656",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006673 (edge82) C00007656",
+        "interaction" : "edge82",
+        "SUID" : 262,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "261",
+        "source" : "142",
+        "target" : "143",
+        "PPB" : "ath",
+        "shared_interaction" : "edge81",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A5GlcMalT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006673 (edge81) C00007655",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006673 (edge81) C00007655",
+        "interaction" : "edge81",
+        "SUID" : 261,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "260",
+        "source" : "139",
+        "target" : "146",
+        "PPB" : "ath",
+        "shared_interaction" : "edge84",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "A3GlcCouT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006657 (edge84) C00033741",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006657 (edge84) C00033741",
+        "interaction" : "edge84",
+        "SUID" : 260,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "259",
+        "source" : "139",
+        "target" : "142",
+        "PPB" : "",
+        "shared_interaction" : "edge80",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R10294",
+        "PPBname" : "A5GlcT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006657 (edge80) C00006673",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00006657 (edge80) C00006673",
+        "interaction" : "edge80",
+        "SUID" : 259,
+        "selected" : false,
+        "mycolor" : "kegg",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "258",
+        "source" : "138",
+        "target" : "145",
+        "PPB" : "",
+        "shared_interaction" : "edge83",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06544",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00002374 (edge83) C00006800",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN08204",
+        "name" : "C00002374 (edge83) C00006800",
+        "interaction" : "edge83",
+        "SUID" : 258,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "257",
+        "source" : "138",
+        "target" : "141",
+        "PPB" : "",
+        "shared_interaction" : "edge79",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06545",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00002374 (edge79) C00038883",
+        "KEGG_KO" : "K12338",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-8169",
+        "name" : "C00002374 (edge79) C00038883",
+        "interaction" : "edge79",
+        "SUID" : 257,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "256",
+        "source" : "138",
+        "target" : "140",
+        "PPB" : "",
+        "shared_interaction" : "edge78",
+        "mywidth" : "gene",
+        "KEGG_R" : "R07878",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00002374 (edge78) C00006658",
+        "KEGG_KO" : "K12933",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-8176",
+        "name" : "C00002374 (edge78) C00006658",
+        "interaction" : "edge78",
+        "SUID" : 256,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "255",
+        "source" : "138",
+        "target" : "139",
+        "PPB" : "",
+        "shared_interaction" : "edge77",
+        "mywidth" : "gene",
+        "KEGG_R" : "R10291",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00002374 (edge77) C00006657",
+        "KEGG_KO" : "K17193",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00002374 (edge77) C00006657",
+        "interaction" : "edge77",
+        "SUID" : 255,
+        "selected" : false,
+        "mycolor" : "kegg",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "254",
+        "source" : "135",
+        "target" : "137",
+        "PPB" : "ath",
+        "shared_interaction" : "edge75",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F7RhaT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005526 (edge75) C00005559",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005526 (edge75) C00005559",
+        "interaction" : "edge75",
+        "SUID" : 254,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "253",
+        "source" : "135",
+        "target" : "136",
+        "PPB" : "ath",
+        "shared_interaction" : "edge74",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F7RhaT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005526 (edge74) C00005558",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005526 (edge74) C00005558",
+        "interaction" : "edge74",
+        "SUID" : 253,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "252",
+        "source" : "134",
+        "target" : "133",
+        "PPB" : "",
+        "shared_interaction" : "edge72",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005547 (edge72) ATMC0002",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005547 (edge72) ATMC0002",
+        "interaction" : "edge72",
+        "SUID" : 252,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "251",
+        "source" : "132",
+        "target" : "133",
+        "PPB" : "",
+        "shared_interaction" : "edge70",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005557 (edge70) ATMC0002",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005557 (edge70) ATMC0002",
+        "interaction" : "edge70",
+        "SUID" : 251,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "250",
+        "source" : "131",
+        "target" : "134",
+        "PPB" : "",
+        "shared_interaction" : "edge71",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005525 (edge71) C00005547",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005525 (edge71) C00005547",
+        "interaction" : "edge71",
+        "SUID" : 250,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "249",
+        "source" : "131",
+        "target" : "132",
+        "PPB" : "ath",
+        "shared_interaction" : "edge69",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F7RhaT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005525 (edge69) C00005557",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005525 (edge69) C00005557",
+        "interaction" : "edge69",
+        "SUID" : 249,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "248",
+        "source" : "129",
+        "target" : "130",
+        "PPB" : "ath",
+        "shared_interaction" : "edge67",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F7RhaT",
+        "KEGG_ath" : "",
+        "shared_name" : "ATMI0002 (edge67) C00005551",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "ATMI0002 (edge67) C00005551",
+        "interaction" : "edge67",
+        "SUID" : 248,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "247",
+        "source" : "128",
+        "target" : "135",
+        "PPB" : "ath",
+        "shared_interaction" : "edge73",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F3RhaT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004635 (edge73) C00005526",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00004635 (edge73) C00005526",
+        "interaction" : "edge73",
+        "SUID" : 247,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "246",
+        "source" : "128",
+        "target" : "131",
+        "PPB" : "ath",
+        "shared_interaction" : "edge68",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F3GlcT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004635 (edge68) C00005525",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00004635 (edge68) C00005525",
+        "interaction" : "edge68",
+        "SUID" : 246,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "245",
+        "source" : "128",
+        "target" : "129",
+        "PPB" : "ath",
+        "shared_interaction" : "edge66",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F3AraT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004635 (edge66) ATMI0002",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00004635 (edge66) ATMI0002",
+        "interaction" : "edge66",
+        "SUID" : 245,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "244",
+        "source" : "123",
+        "target" : "125",
+        "PPB" : "",
+        "shared_interaction" : "edge62",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005374 (edge62) C00005432",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXNQT-4162",
+        "name" : "C00005374 (edge62) C00005432",
+        "interaction" : "edge62",
+        "SUID" : 244,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "243",
+        "source" : "123",
+        "target" : "124",
+        "PPB" : "",
+        "shared_interaction" : "edge61",
+        "mywidth" : "gene",
+        "KEGG_R" : "R09804",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00005374 (edge61) C00005431",
+        "KEGG_KO" : "(AT2G36790)",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-8268",
+        "name" : "C00005374 (edge61) C00005431",
+        "interaction" : "edge61",
+        "SUID" : 243,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "242",
+        "source" : "121",
+        "target" : "120",
+        "PPB" : "",
+        "shared_interaction" : "edge58",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005412 (edge58) C00005470",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005412 (edge58) C00005470",
+        "interaction" : "edge58",
+        "SUID" : 242,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "241",
+        "source" : "119",
+        "target" : "120",
+        "PPB" : "",
+        "shared_interaction" : "edge56",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005428 (edge56) C00005470",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005428 (edge56) C00005470",
+        "interaction" : "edge56",
+        "SUID" : 241,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "240",
+        "source" : "117",
+        "target" : "122",
+        "PPB" : "",
+        "shared_interaction" : "edge59",
+        "mywidth" : "gene",
+        "KEGG_R" : "R04900",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005373 (edge59) C00005413",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-8449",
+        "name" : "C00005373 (edge59) C00005413",
+        "interaction" : "edge59",
+        "SUID" : 240,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "239",
+        "source" : "117",
+        "target" : "121",
+        "PPB" : "",
+        "shared_interaction" : "edge57",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005373 (edge57) C00005412",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005373 (edge57) C00005412",
+        "interaction" : "edge57",
+        "SUID" : 239,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "238",
+        "source" : "117",
+        "target" : "119",
+        "PPB" : "",
+        "shared_interaction" : "edge55",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005373 (edge55) C00005428",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXNQT-4161",
+        "name" : "C00005373 (edge55) C00005428",
+        "interaction" : "edge55",
+        "SUID" : 238,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "237",
+        "source" : "117",
+        "target" : "118",
+        "PPB" : "",
+        "shared_interaction" : "edge54",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005373 (edge54) C00005427",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-8271",
+        "name" : "C00005373 (edge54) C00005427",
+        "interaction" : "edge54",
+        "SUID" : 237,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "236",
+        "source" : "115",
+        "target" : "116",
+        "PPB" : "ath",
+        "shared_interaction" : "edge52",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F7RhaT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005368 (edge52) ATMC0001",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005368 (edge52) ATMC0001",
+        "interaction" : "edge52",
+        "SUID" : 236,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "235",
+        "source" : "113",
+        "target" : "114",
+        "PPB" : "",
+        "shared_interaction" : "edge49",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005149 (edge49) C00005197",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005149 (edge49) C00005197",
+        "interaction" : "edge49",
+        "SUID" : 235,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "234",
+        "source" : "113",
+        "target" : "111",
+        "PPB" : "",
+        "shared_interaction" : "edge48",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005149 (edge48) C00005188",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005149 (edge48) C00005188",
+        "interaction" : "edge48",
+        "SUID" : 234,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "233",
+        "source" : "110",
+        "target" : "112",
+        "PPB" : "",
+        "shared_interaction" : "edge46",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005140 (edge46) C00005189",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN1F-475",
+        "name" : "C00005140 (edge46) C00005189",
+        "interaction" : "edge46",
+        "SUID" : 233,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "232",
+        "source" : "110",
+        "target" : "111",
+        "PPB" : "",
+        "shared_interaction" : "edge45",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005140 (edge45) C00005188",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-8266",
+        "name" : "C00005140 (edge45) C00005188",
+        "interaction" : "edge45",
+        "SUID" : 232,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "231",
+        "source" : "109",
+        "target" : "108",
+        "PPB" : "",
+        "shared_interaction" : "edge43",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005166 (edge43) C00005234",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-14008",
+        "name" : "C00005166 (edge43) C00005234",
+        "interaction" : "edge43",
+        "SUID" : 231,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "230",
+        "source" : "107",
+        "target" : "106",
+        "PPB" : "",
+        "shared_interaction" : "edge40",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005167 (edge40) C00005237",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005167 (edge40) C00005237",
+        "interaction" : "edge40",
+        "SUID" : 230,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "229",
+        "source" : "105",
+        "target" : "108",
+        "PPB" : "",
+        "shared_interaction" : "edge41",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005184 (edge41) C00005234",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005184 (edge41) C00005234",
+        "interaction" : "edge41",
+        "SUID" : 229,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "228",
+        "source" : "105",
+        "target" : "106",
+        "PPB" : "",
+        "shared_interaction" : "edge38",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005184 (edge38) C00005237",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005184 (edge38) C00005237",
+        "interaction" : "edge38",
+        "SUID" : 228,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "227",
+        "source" : "103",
+        "target" : "109",
+        "PPB" : "",
+        "shared_interaction" : "edge42",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005138 (edge42) C00005166",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-13830",
+        "name" : "C00005138 (edge42) C00005166",
+        "interaction" : "edge42",
+        "SUID" : 227,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "226",
+        "source" : "103",
+        "target" : "107",
+        "PPB" : "",
+        "shared_interaction" : "edge39",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005138 (edge39) C00005167",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005138 (edge39) C00005167",
+        "interaction" : "edge39",
+        "SUID" : 226,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "225",
+        "source" : "103",
+        "target" : "105",
+        "PPB" : "",
+        "shared_interaction" : "edge37",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005138 (edge37) C00005184",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN1F-443",
+        "name" : "C00005138 (edge37) C00005184",
+        "interaction" : "edge37",
+        "SUID" : 225,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "224",
+        "source" : "103",
+        "target" : "104",
+        "PPB" : "",
+        "shared_interaction" : "edge36",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005138 (edge36) C00005182",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-8270",
+        "name" : "C00005138 (edge36) C00005182",
+        "interaction" : "edge36",
+        "SUID" : 224,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "223",
+        "source" : "101",
+        "target" : "102",
+        "PPB" : "",
+        "shared_interaction" : "edge34",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "ATMI0001 (edge34) C00005202",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "ATMI0001 (edge34) C00005202",
+        "interaction" : "edge34",
+        "SUID" : 223,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "222",
+        "source" : "98",
+        "target" : "99",
+        "PPB" : "ath",
+        "shared_interaction" : "edge31",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F7RhaT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005133 (edge31) C00005174",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005133 (edge31) C00005174",
+        "interaction" : "edge31",
+        "SUID" : 222,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "221",
+        "source" : "97",
+        "target" : "101",
+        "PPB" : "",
+        "shared_interaction" : "edge33",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005137 (edge33) ATMI0001",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005137 (edge33) ATMI0001",
+        "interaction" : "edge33",
+        "SUID" : 221,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "220",
+        "source" : "97",
+        "target" : "100",
+        "PPB" : "",
+        "shared_interaction" : "edge32",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00005137 (edge32) C00005178",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00005137 (edge32) C00005178",
+        "interaction" : "edge32",
+        "SUID" : 220,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "219",
+        "source" : "91",
+        "target" : "159",
+        "PPB" : "",
+        "shared_interaction" : "edge106",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00003817 (edge106) C00034377",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-7750",
+        "name" : "C00003817 (edge106) C00034377",
+        "interaction" : "edge106",
+        "SUID" : 219,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "218",
+        "source" : "91",
+        "target" : "96",
+        "PPB" : "",
+        "shared_interaction" : "edge28",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00003817 (edge28) C00003834",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00003817 (edge28) C00003834",
+        "interaction" : "edge28",
+        "SUID" : 218,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "217",
+        "source" : "91",
+        "target" : "95",
+        "PPB" : "",
+        "shared_interaction" : "edge27",
+        "mywidth" : "gene",
+        "KEGG_R" : "R03574",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00003817 (edge27) C00001017",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-5021",
+        "name" : "C00003817 (edge27) C00001017",
+        "interaction" : "edge27",
+        "SUID" : 217,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "216",
+        "source" : "91",
+        "target" : "94",
+        "PPB" : "",
+        "shared_interaction" : "edge26",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R03571",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00003817 (edge26) C00003820",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "APIGENIN-4-O-METHYLTRANSFERASE-RXN",
+        "name" : "C00003817 (edge26) C00003820",
+        "interaction" : "edge26",
+        "SUID" : 216,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "215",
+        "source" : "91",
+        "target" : "92",
+        "PPB" : "",
+        "shared_interaction" : "edge22",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06537",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00003817 (edge22) C00000674",
+        "KEGG_KO" : "K05280",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-7651",
+        "name" : "C00003817 (edge22) C00000674",
+        "interaction" : "edge22",
+        "SUID" : 215,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "214",
+        "source" : "90",
+        "target" : "92",
+        "PPB" : "",
+        "shared_interaction" : "edge24",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000960 (edge24) C00000674",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-7653",
+        "name" : "C00000960 (edge24) C00000674",
+        "interaction" : "edge24",
+        "SUID" : 214,
+        "BEND_MAP_ID" : 253,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "213",
+        "source" : "90",
+        "target" : "92",
+        "PPB" : "",
+        "shared_interaction" : "edge23",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R03590",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000960 (edge23) C00000674",
+        "KEGG_KO" : "K13077",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-7687",
+        "name" : "C00000960 (edge23) C00000674",
+        "interaction" : "edge23",
+        "SUID" : 213,
+        "BEND_MAP_ID" : 254,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "source" : "90",
+        "target" : "81",
+        "PPB" : "",
+        "shared_interaction" : "edge19",
+        "mywidth" : "gene",
+        "KEGG_R" : "R03640",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00000960 (edge19) C00000677",
+        "KEGG_KO" : "K00475",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-7775",
+        "name" : "C00000960 (edge19) C00000677",
+        "interaction" : "edge19",
+        "SUID" : 212,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "88",
+        "target" : "157",
+        "PPB" : "",
+        "shared_interaction" : "edge103",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R07777",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000977 (edge103) ATMI0003",
+        "KEGG_KO" : "K13257",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-3283",
+        "name" : "C00000977 (edge103) ATMI0003",
+        "interaction" : "edge103",
+        "SUID" : 211,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "source" : "88",
+        "target" : "89",
+        "PPB" : "",
+        "shared_interaction" : "edge17",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R07712",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000977 (edge17) C00003800",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00000977 (edge17) C00003800",
+        "interaction" : "edge17",
+        "SUID" : 210,
+        "selected" : false,
+        "mycolor" : "kegg",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "source" : "87",
+        "target" : "88",
+        "PPB" : "",
+        "shared_interaction" : "edge16",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06556",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00006925 (edge16) C00000977",
+        "KEGG_KO" : "K01859",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-3221",
+        "name" : "C00006925 (edge16) C00000977",
+        "interaction" : "edge16",
+        "SUID" : 209,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "85",
+        "target" : "162",
+        "PPB" : "Unclear",
+        "shared_interaction" : "edge109",
+        "mywidth" : "",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000956 (edge109) C00009077",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00000956 (edge109) C00009077",
+        "interaction" : "edge109",
+        "SUID" : 208,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : "unclear"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "source" : "84",
+        "target" : "138",
+        "PPB" : "",
+        "shared_interaction" : "edge76",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06535",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00006614 (edge76) C00002374",
+        "KEGG_KO" : "K12930",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN1F-775",
+        "name" : "C00006614 (edge76) C00002374",
+        "interaction" : "edge76",
+        "SUID" : 207,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "84",
+        "target" : "85",
+        "PPB" : "",
+        "shared_interaction" : "edge13",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06542",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00006614 (edge13) C00000956",
+        "KEGG_KO" : "K08695",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-9725",
+        "name" : "C00006614 (edge13) C00000956",
+        "interaction" : "edge13",
+        "SUID" : 206,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "source" : "83",
+        "target" : "86",
+        "PPB" : "",
+        "shared_interaction" : "edge14",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06532",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007235 (edge14) C00000947",
+        "KEGG_KO" : "K13081",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-1484",
+        "name" : "C00007235 (edge14) C00000947",
+        "interaction" : "edge14",
+        "SUID" : 205,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "source" : "83",
+        "target" : "84",
+        "PPB" : "",
+        "shared_interaction" : "edge12",
+        "mywidth" : "gene",
+        "KEGG_R" : "R05036",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007235 (edge12) C00006614",
+        "KEGG_KO" : "K05277",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-602",
+        "name" : "C00007235 (edge12) C00006614",
+        "interaction" : "edge12",
+        "SUID" : 204,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "source" : "82",
+        "target" : "128",
+        "PPB" : "",
+        "shared_interaction" : "edge65",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004631 (edge65) C00004635",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-8262",
+        "name" : "C00004631 (edge65) C00004635",
+        "interaction" : "edge65",
+        "SUID" : 203,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "82",
+        "target" : "127",
+        "PPB" : "",
+        "shared_interaction" : "edge64",
+        "mywidth" : "gene",
+        "KEGG_R" : "R02157",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004631 (edge64) C00004632",
+        "KEGG_KO" : "K05279",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "QUERCETIN-3-O-METHYLTRANSFERASE-RXN",
+        "name" : "C00004631 (edge64) C00004632",
+        "interaction" : "edge64",
+        "SUID" : 202,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "source" : "82",
+        "target" : "126",
+        "PPB" : "",
+        "shared_interaction" : "edge63",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004631 (edge63) C00005382",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-8264",
+        "name" : "C00004631 (edge63) C00005382",
+        "interaction" : "edge63",
+        "SUID" : 201,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "source" : "82",
+        "target" : "123",
+        "PPB" : "",
+        "shared_interaction" : "edge60",
+        "mywidth" : "gene",
+        "KEGG_R" : "R09803",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00004631 (edge60) C00005374",
+        "KEGG_KO" : "K15787",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-8267",
+        "name" : "C00004631 (edge60) C00005374",
+        "interaction" : "edge60",
+        "SUID" : 200,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "source" : "82",
+        "target" : "117",
+        "PPB" : "",
+        "shared_interaction" : "edge53",
+        "mywidth" : "gene",
+        "KEGG_R" : "R02158",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00004631 (edge53) C00005373",
+        "KEGG_KO" : "K10757",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN1F-462",
+        "name" : "C00004631 (edge53) C00005373",
+        "interaction" : "edge53",
+        "SUID" : 199,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "82",
+        "target" : "115",
+        "PPB" : "ath",
+        "shared_interaction" : "edge51",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F3AraT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004631 (edge51) C00005368",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00004631 (edge51) C00005368",
+        "interaction" : "edge51",
+        "SUID" : 198,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "source" : "81",
+        "target" : "83",
+        "PPB" : "",
+        "shared_interaction" : "edge11",
+        "mywidth" : "gene",
+        "KEGG_R" : "R03636",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00000677 (edge11) C00007235",
+        "KEGG_KO" : "K13082",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-600",
+        "name" : "C00000677 (edge11) C00007235",
+        "interaction" : "edge11",
+        "SUID" : 197,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "81",
+        "target" : "82",
+        "PPB" : "",
+        "shared_interaction" : "edge10",
+        "mywidth" : "gene",
+        "KEGG_R" : "R02160",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00000677 (edge10) C00004631",
+        "KEGG_KO" : "K05278",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-527",
+        "name" : "C00000677 (edge10) C00004631",
+        "interaction" : "edge10",
+        "SUID" : 196,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "source" : "78",
+        "target" : "79",
+        "PPB" : "",
+        "shared_interaction" : "edge7",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06541",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007232 (edge7) C00008805",
+        "KEGG_KO" : "K08695",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-9724",
+        "name" : "C00007232 (edge7) C00008805",
+        "interaction" : "edge7",
+        "SUID" : 195,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "77",
+        "target" : "80",
+        "PPB" : "",
+        "shared_interaction" : "edge8",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06615",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00020638 (edge8) C00000937",
+        "KEGG_KO" : "K13081",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-1481",
+        "name" : "C00020638 (edge8) C00000937",
+        "interaction" : "edge8",
+        "SUID" : 194,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "77",
+        "target" : "78",
+        "PPB" : "",
+        "shared_interaction" : "edge6",
+        "mywidth" : "gene",
+        "KEGG_R" : "R04276",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00020638 (edge6) C00007232",
+        "KEGG_KO" : "K05277",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "LEUCOPEL-RXN",
+        "name" : "C00020638 (edge6) C00007232",
+        "interaction" : "edge6",
+        "SUID" : 193,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "76",
+        "target" : "82",
+        "PPB" : "",
+        "shared_interaction" : "edge50",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06538",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00004565 (edge50) C00004631",
+        "KEGG_KO" : "K05280",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-12510",
+        "name" : "C00004565 (edge50) C00004631",
+        "interaction" : "edge50",
+        "SUID" : 192,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "76",
+        "target" : "113",
+        "PPB" : "",
+        "shared_interaction" : "edge47",
+        "mywidth" : "gene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004565 (edge47) C00005149",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "RXN-8263",
+        "name" : "C00004565 (edge47) C00005149",
+        "interaction" : "edge47",
+        "SUID" : 191,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "source" : "76",
+        "target" : "110",
+        "PPB" : "",
+        "shared_interaction" : "edge44",
+        "mywidth" : "gene",
+        "KEGG_R" : "R09802",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00004565 (edge44) C00005140",
+        "KEGG_KO" : "K15787",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN１F-474",
+        "name" : "C00004565 (edge44) C00005140",
+        "interaction" : "edge44",
+        "SUID" : 190,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "76",
+        "target" : "103",
+        "PPB" : "",
+        "shared_interaction" : "edge35",
+        "mywidth" : "gene",
+        "KEGG_R" : "R06611",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00004565 (edge35) C00005138",
+        "KEGG_KO" : "K10757",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN1F-461",
+        "name" : "C00004565 (edge35) C00005138",
+        "interaction" : "edge35",
+        "SUID" : 189,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "source" : "76",
+        "target" : "98",
+        "PPB" : "ath",
+        "shared_interaction" : "edge30",
+        "mywidth" : "ppb",
+        "KEGG_R" : "",
+        "PPBname" : "F3AraT",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004565 (edge30) C00005133",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00004565 (edge30) C00005133",
+        "interaction" : "edge30",
+        "SUID" : 188,
+        "selected" : false,
+        "mycolor" : "",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "source" : "76",
+        "target" : "97",
+        "PPB" : "",
+        "shared_interaction" : "edge29",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R06808",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00004565 (edge29) C00005137",
+        "KEGG_KO" : "K13269",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00004565 (edge29) C00005137",
+        "interaction" : "edge29",
+        "SUID" : 187,
+        "selected" : false,
+        "mycolor" : "kegg",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "75",
+        "target" : "81",
+        "PPB" : "",
+        "shared_interaction" : "edge9",
+        "mywidth" : "gene",
+        "KEGG_R" : "R03124",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007234 (edge9) C00000677",
+        "KEGG_KO" : "K05280",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-525",
+        "name" : "C00007234 (edge9) C00000677",
+        "interaction" : "edge9",
+        "SUID" : 186,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "source" : "75",
+        "target" : "77",
+        "PPB" : "",
+        "shared_interaction" : "edge5",
+        "mywidth" : "gene",
+        "KEGG_R" : "R03123",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007234 (edge5) C00020638",
+        "KEGG_KO" : "K13082",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "DIHYDROKAEMPFEROL-4-REDUCTASE-RXN",
+        "name" : "C00007234 (edge5) C00020638",
+        "interaction" : "edge5",
+        "SUID" : 185,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "75",
+        "target" : "76",
+        "PPB" : "",
+        "shared_interaction" : "edge4",
+        "mywidth" : "gene",
+        "KEGG_R" : "R03126",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007234 (edge4) C00004565",
+        "KEGG_KO" : "K05278",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN1F-93",
+        "name" : "C00007234 (edge4) C00004565",
+        "interaction" : "edge4",
+        "SUID" : 184,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "74",
+        "target" : "167",
+        "PPB" : "",
+        "shared_interaction" : "edge114",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000982 (edge114) ATMI0006",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-14069",
+        "name" : "C00000982 (edge114) ATMI0006",
+        "interaction" : "edge114",
+        "SUID" : 183,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "74",
+        "target" : "159",
+        "PPB" : "",
+        "shared_interaction" : "edge105",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R07778",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000982 (edge105) C00034377",
+        "KEGG_KO" : "K13257",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-1541",
+        "name" : "C00000982 (edge105) C00034377",
+        "interaction" : "edge105",
+        "SUID" : 182,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "source" : "74",
+        "target" : "93",
+        "PPB" : "",
+        "shared_interaction" : "edge25",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R08006",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000982 (edge25) C00008208",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "",
+        "name" : "C00000982 (edge25) C00008208",
+        "interaction" : "edge25",
+        "SUID" : 181,
+        "selected" : false,
+        "mycolor" : "kegg",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "74",
+        "target" : "91",
+        "PPB" : "",
+        "shared_interaction" : "edge21",
+        "mywidth" : "nogene",
+        "KEGG_R" : "",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000982 (edge21) C00003817",
+        "KEGG_KO" : "",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-7650",
+        "name" : "C00000982 (edge21) C00003817",
+        "interaction" : "edge21",
+        "SUID" : 180,
+        "BEND_MAP_ID" : 287,
+        "selected" : false,
+        "mycolor" : "plantcyc",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "74",
+        "target" : "91",
+        "PPB" : "",
+        "shared_interaction" : "edge20",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R02445",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00000982 (edge20) C00003817",
+        "KEGG_KO" : "K13077",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-7686",
+        "name" : "C00000982 (edge20) C00003817",
+        "interaction" : "edge20",
+        "SUID" : 179,
+        "BEND_MAP_ID" : 288,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "74",
+        "target" : "90",
+        "PPB" : "",
+        "shared_interaction" : "edge18",
+        "mywidth" : "gene",
+        "KEGG_R" : "R02442",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00000982 (edge18) C00000960",
+        "KEGG_KO" : "K05280",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "RXN-7652",
+        "name" : "C00000982 (edge18) C00000960",
+        "interaction" : "edge18",
+        "SUID" : 178,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "74",
+        "target" : "75",
+        "PPB" : "",
+        "shared_interaction" : "edge3",
+        "mywidth" : "gene",
+        "KEGG_R" : "R02444",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00000982 (edge3) C00007234",
+        "KEGG_KO" : "K00475",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "NARINGENIN-3-DIOXYGENASE-RXN",
+        "name" : "C00000982 (edge3) C00007234",
+        "interaction" : "edge3",
+        "SUID" : 177,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "73",
+        "target" : "74",
+        "PPB" : "",
+        "shared_interaction" : "edge2",
+        "mywidth" : "gene",
+        "KEGG_R" : "R02446",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007233 (edge2) C00000982",
+        "KEGG_KO" : "K01859",
+        "PlantCyc_ath" : "Exp.",
+        "PlantCyc_R" : "APIGNAR-RXN",
+        "name" : "C00007233 (edge2) C00000982",
+        "interaction" : "edge2",
+        "SUID" : 176,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "72",
+        "target" : "87",
+        "PPB" : "",
+        "shared_interaction" : "edge15",
+        "mywidth" : "nogene",
+        "KEGG_R" : "R06568",
+        "PPBname" : "",
+        "KEGG_ath" : "",
+        "shared_name" : "C00007280 (edge15) C00006925",
+        "KEGG_KO" : "K00660, K08243",
+        "PlantCyc_ath" : "",
+        "PlantCyc_R" : "RXN-3142",
+        "name" : "C00007280 (edge15) C00006925",
+        "interaction" : "edge15",
+        "SUID" : 175,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "72",
+        "target" : "73",
+        "PPB" : "",
+        "shared_interaction" : "edge1",
+        "mywidth" : "gene",
+        "KEGG_R" : "R01613",
+        "PPBname" : "",
+        "KEGG_ath" : "ath",
+        "shared_name" : "C00007280 (edge1) C00007233",
+        "KEGG_KO" : "K00660",
+        "PlantCyc_ath" : "Comp.",
+        "PlantCyc_R" : "NARINGENIN-CHALCONE-SYNTHASE-RXN",
+        "name" : "C00007280 (edge1) C00007233",
+        "interaction" : "edge1",
+        "SUID" : 174,
+        "selected" : false,
+        "mycolor" : "both",
+        "mylinetype" : ""
+      },
+      "selected" : false
+    } ]
+  }
+}
